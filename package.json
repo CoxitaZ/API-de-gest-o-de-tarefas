@@ -1,0 +1,15 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "API de gestão de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Eduardo Garcia da Costa Marques Filho",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.38",
+    "express": "^5.2.1"
+  }
+}
